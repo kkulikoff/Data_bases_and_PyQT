@@ -1,0 +1,527 @@
+2021-04-16 00:47:58,133 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 00:49:59,941 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 00:52:34,161 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 00:55:02,846 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 00:56:14,746 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 00:56:45,282 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 00:57:27,004 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 00:58:44,629 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:00:19,591 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:01:40,809 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:02:48,739 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:02:55,222 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56354)
+2021-04-16 01:02:55,238 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56355)
+2021-04-16 01:02:55,238 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:02:55,238 INFO server.py Ошибка при получении сообщения: Expecting value: line 1 column 1 (char 0)
+2021-04-16 01:02:55,739 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:02:55,739 INFO server.py Ошибка при получении сообщения: Expecting value: line 1 column 1 (char 0)
+2021-04-16 01:06:45,483 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:06:55,190 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56493)
+2021-04-16 01:06:55,691 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:06:55,691 INFO server.py Ошибка при получении сообщения: Expecting value: line 1 column 1 (char 0)
+2021-04-16 01:08:22,042 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56542)
+2021-04-16 01:08:22,542 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:08:22,542 INFO server.py Ошибка при получении сообщения: Expecting value: line 1 column 1 (char 0)
+2021-04-16 01:08:57,200 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56562)
+2021-04-16 01:08:57,700 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:08:57,700 INFO server.py Ошибка при получении сообщения: Expecting value: line 1 column 1 (char 0)
+2021-04-16 01:09:03,012 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56566)
+2021-04-16 01:09:03,513 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:09:03,513 INFO server.py Ошибка при получении сообщения: Expecting value: line 1 column 1 (char 0)
+2021-04-16 01:09:44,262 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56596)
+2021-04-16 01:10:04,284 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:10:04,284 INFO server.py Клиент ('127.0.0.1', 56596) отключился от сервера.
+2021-04-16 01:11:27,947 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56654)
+2021-04-16 01:11:28,447 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:11:28,447 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618524687.9481003, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:11:28,454 DEBUG server.py Unknown username, sending {'response': 400, 'error': 'Пользователь не зарегистрирован.'}
+2021-04-16 01:11:54,152 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:12:56,739 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56708)
+2021-04-16 01:12:57,239 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:12:57,239 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618524776.7406974, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:12:57,251 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:12:57,252 DEBUG server.py Auth message = {'response': 511, 'bin': '01f3cdd3d4175ab8bca028dd7b987ee1966d3fd09421e3d32986ef087e22f5d295cce25cc7b9fbfebfa774bbfd1e2ae98d6f381d05664baa17e7f5a31d29a3ec'}
+2021-04-16 01:12:57,255 INFO server.py Ошибка при получении сообщения: Expecting value: line 1 column 1 (char 0)
+2021-04-16 01:12:59,502 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56711)
+2021-04-16 01:13:00,003 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:13:00,003 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618524779.5036979, 'user': {'account_name': 'KIBORG4', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtkpZrXoaf5l12DbQ11o+\nUj6CB9DCdZGqZ1dJ36JkFOOzkQkh/yPhYhp5g1KS8h78wBCnVHSBLRjp69qgysa5\nfYg/LVfLX2s+t8lVKkBM4DFINLXpDYwncp7Kos5oBUUVJH+kf/69HBpLohH4w51n\nXof5tAoaPV88S+4snfEoY/B3lStBrQ5JoefRTZXK7uBZh7/pRh06zi49Mo3THc2I\nEdM4KFvk/7/gFSOr88L57PhwwJE/LL/mkXbpMDKCNsZu1fh2ZpQDyXRonRW/KFx6\nFpEZEEX5qk7j5T79nxXF1IoIMjPEYEPBYWu9rMSSqfqWRiY1Brs11xsYP2eQyxU8\nLQIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:13:00,004 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:13:00,005 DEBUG server.py Auth message = {'response': 511, 'bin': 'd13b7028324037d8f9cee311862bc41d66fd6cb0df92f3768b5df3391d6465748ff121ec3a73b34f7f9842d211f2a9c1d1e436f5d2a6532967c4e89505d4ad4a'}
+2021-04-16 01:13:00,009 INFO server.py Ошибка при получении сообщения: Expecting value: line 1 column 1 (char 0)
+2021-04-16 01:13:01,799 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56713)
+2021-04-16 01:13:02,301 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:13:02,301 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618524781.8006995, 'user': {'account_name': 'KIBORG2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAolmZ04l2I+SFXabwwohN\n3qR1ICvMKpyOcalqRo0WX/8YHUvwW7fZBEfslHieqlU73SvrD8n+XuYXwlw2YRAZ\n0+zYHsKZyA8bLljpxLpL5ArGy7tz+sKedN41Brb3lpnBGB8wKNUlNAP4K5Pa/d2f\nok8dOXPh79VggcLCRA9mONXfULyEAJSME8do89gfy6pLwVAYtW/LE9HgV+/1YmGl\n4/xznIcFyBPFpj17U8/9bZzagSUdlFF+VqjEmJ9z7wM6lWEOCn5vQ8RXq6wPqL/u\n3Ek9H3qBUqadmeFG8wri/p0Uj9/f8gJY/vXQPlFsc3KLLhm0AljRrCE6NK1gtyn9\nUQIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:13:02,302 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:13:02,303 DEBUG server.py Auth message = {'response': 511, 'bin': '4692283eabe60e346c0c91dc2d4f5a19869a21894afdbbe365e1aef74ad23fd5f1fc4196776510787106fc1f4ec25f71dd4455a12a70680b233ac30beb96e297'}
+2021-04-16 01:13:02,306 INFO server.py Ошибка при получении сообщения: Expecting value: line 1 column 1 (char 0)
+2021-04-16 01:13:08,534 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56718)
+2021-04-16 01:13:09,035 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:13:09,035 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618524788.5356987, 'user': {'account_name': 'KIBORG3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAreOowvQzqwZ9M3GlnTb/\nvea3TJ/ZPCahCbZ7H7PdUcBHOyzxMHqt2YD7lk2KBUvx16r+l+r4CI1Og4HoC7LH\nJl/uMU4Naod4WWAvqk3I8o36Q+xF2U5xKvWUl60DAKHRVf/MFX9mc0biYMtuYTLe\nzx2I+k2CD5bld5AynWiM4rnNTQm8M6fOzNEyw0Q2QilXC7i/iCtuE8oXpJrvnniK\n46PW58FhxGUKFH8J/xC4qt4Y1QFx1FyoV9cRletSdemck0LD+NDd4IUf1VCMeWoh\nQOzusL/qagW05Nn7NKrAEIvEuTIuDjHCYXOjTp1Oav3snyCcPrZnM9vkysKW9VrQ\ntwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:13:09,036 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:13:09,037 DEBUG server.py Auth message = {'response': 511, 'bin': '5c6b8e7702f507a2f0bbe78ef8d6a5da83fdb9e4ac86b8cabde75dbb3b53b403d5e91cd814e85ae69f50808e419d101677c70dffb29409cdb6d9f4bcc02f9790'}
+2021-04-16 01:13:09,040 INFO server.py Ошибка при получении сообщения: Expecting value: line 1 column 1 (char 0)
+2021-04-16 01:13:40,792 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:13:58,511 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56755)
+2021-04-16 01:14:04,517 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:14:04,517 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618524840.9063337, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:14:04,524 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:14:04,525 DEBUG server.py Auth message = {'response': 511, 'bin': '3d9a8ebcb464a60e3eb15403959226bfe05540b0dff92a32302dba77e195f034d5ace5b1087e2c2076880892105922f1b878cb4b460e82dbbecbf26a45db2528'}
+2021-04-16 01:14:22,648 INFO server.py Ошибка при получении сообщения: Expecting value: line 1 column 1 (char 0)
+2021-04-16 01:14:33,173 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56780)
+2021-04-16 01:14:36,177 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:14:36,177 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618524873.3188436, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:14:36,178 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:14:36,178 DEBUG server.py Auth message = {'response': 511, 'bin': '65b799469584253013fa358189fe20e9f79e7d9909a28515830a7001d4a38b72b7b4e66ef9620faa60187207c5569605f7c7e5d8b92b5f071efbe38f8b061d39'}
+2021-04-16 01:14:56,494 DEBUG server.py Error in auth, data:
+Traceback (most recent call last):
+  File "server.py", line 220, in authorize_user
+    ans = messenger.get_message()
+  File "C:\Users\Taonix\PycharmProjects\python_DBPyQT\Lesson_6_Grishechkina\decorator.py", line 36, in log_saver
+    note = func(*args, **kwargs)
+  File "C:\Users\Taonix\PycharmProjects\python_DBPyQT\Lesson_6_Grishechkina\common\json_messenger.py", line 27, in get_message
+    encoded_response = self.sock.recv(self.MAX_PACKAGE_LENGTH)
+ConnectionResetError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-04-16 01:17:16,604 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56874)
+2021-04-16 01:17:17,105 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:17:17,105 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525036.6058393, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:17:17,107 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:17:17,107 DEBUG server.py Auth message = {'response': 511, 'bin': 'bc33bc1392b58bf7500473d038f6be1122f99bac2cc08b790124c6ad828a13d9e8b6ed71e055c59b6f5acfca6b91454b5aab40ecfa40824f2a3860d76f60944f'}
+2021-04-16 01:17:17,109 INFO server.py Ошибка при получении сообщения: Expecting value: line 1 column 1 (char 0)
+2021-04-16 01:17:46,624 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56891)
+2021-04-16 01:17:47,126 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:17:47,126 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525066.6258752, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:17:47,127 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:17:47,128 DEBUG server.py Auth message = {'response': 511, 'bin': '786dfefad1b06b9929e069999ef63410d4ff5578d3c20ce915ac987a2b27efa08f691f590069493c6b79d90d3d3284f3fc79bc8db23be65b8d6c9fa31c58a774'}
+2021-04-16 01:17:47,198 INFO server.py Ошибка при получении сообщения: Expecting value: line 1 column 1 (char 0)
+2021-04-16 01:18:07,701 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56908)
+2021-04-16 01:18:08,201 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:18:08,201 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525087.7033632, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:18:08,202 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:18:08,203 DEBUG server.py Auth message = {'response': 511, 'bin': 'deaf251ce48a962640eabfcc67b40d992156efc391ce5d3f00d550705537a81fdaccf1a181cc9d034e339bf52792a87f7d4243bd4a95295abdd7e6f8445c69c8'}
+2021-04-16 01:18:30,184 DEBUG server.py Error in auth, data:
+Traceback (most recent call last):
+  File "server.py", line 220, in authorize_user
+    ans = messenger.get_message()
+  File "C:\Users\Taonix\PycharmProjects\python_DBPyQT\Lesson_6_Grishechkina\decorator.py", line 36, in log_saver
+    note = func(*args, **kwargs)
+  File "C:\Users\Taonix\PycharmProjects\python_DBPyQT\Lesson_6_Grishechkina\common\json_messenger.py", line 27, in get_message
+    encoded_response = self.sock.recv(self.MAX_PACKAGE_LENGTH)
+ConnectionResetError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-04-16 01:18:48,185 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56932)
+2021-04-16 01:18:48,685 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:18:48,685 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525128.1863012, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:18:48,686 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:18:48,687 DEBUG server.py Auth message = {'response': 511, 'bin': '1a600079c00f0be488ec99dedbd050ccf37af9963b4a17a2dcdf24e963debfbd4ac6289c80fbb3ae993f051d0358f88b4acbd34076a51a662a2542bd853d2998'}
+2021-04-16 01:18:49,301 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:18:49,301 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618525128.8124087, 'account_name': 'KIBORG1'}
+2021-04-16 01:18:49,812 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:18:49,812 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618525129.3335338, 'user': 'KIBORG1'}
+2021-04-16 01:18:53,820 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:18:53,820 INFO server.py Клиент ('127.0.0.1', 56932) отключился от сервера.
+2021-04-16 01:19:03,351 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56941)
+2021-04-16 01:19:03,358 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56942)
+2021-04-16 01:19:03,358 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:19:03,358 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525143.3521397, 'user': {'account_name': 'KIBORG2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAolmZ04l2I+SFXabwwohN\n3qR1ICvMKpyOcalqRo0WX/8YHUvwW7fZBEfslHieqlU73SvrD8n+XuYXwlw2YRAZ\n0+zYHsKZyA8bLljpxLpL5ArGy7tz+sKedN41Brb3lpnBGB8wKNUlNAP4K5Pa/d2f\nok8dOXPh79VggcLCRA9mONXfULyEAJSME8do89gfy6pLwVAYtW/LE9HgV+/1YmGl\n4/xznIcFyBPFpj17U8/9bZzagSUdlFF+VqjEmJ9z7wM6lWEOCn5vQ8RXq6wPqL/u\n3Ek9H3qBUqadmeFG8wri/p0Uj9/f8gJY/vXQPlFsc3KLLhm0AljRrCE6NK1gtyn9\nUQIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:19:03,369 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:19:03,370 DEBUG server.py Auth message = {'response': 511, 'bin': '5492c5d8e933c1c4323c21ffc1562bf0ab92cd13a1759050dccf7e54f12aa66a094c68ee1121797e9bf2ffd88f0626833b8caeafe26778a93138edb34d92f17b'}
+2021-04-16 01:19:03,482 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56943)
+2021-04-16 01:19:03,482 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:19:03,482 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525143.3591406, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:19:03,498 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:19:03,499 DEBUG server.py Auth message = {'response': 511, 'bin': '9e6740c5c42880eb5ce5847bb9a8908f8698d7f6002f97af21859e08685ef128d5104f47be8867708955cb974fe8dcc34bd396ce7f1657255a1b7c2141c50098'}
+2021-04-16 01:19:03,581 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525143.3731403, 'user': {'account_name': 'KIBORG3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAreOowvQzqwZ9M3GlnTb/\nvea3TJ/ZPCahCbZ7H7PdUcBHOyzxMHqt2YD7lk2KBUvx16r+l+r4CI1Og4HoC7LH\nJl/uMU4Naod4WWAvqk3I8o36Q+xF2U5xKvWUl60DAKHRVf/MFX9mc0biYMtuYTLe\nzx2I+k2CD5bld5AynWiM4rnNTQm8M6fOzNEyw0Q2QilXC7i/iCtuE8oXpJrvnniK\n46PW58FhxGUKFH8J/xC4qt4Y1QFx1FyoV9cRletSdemck0LD+NDd4IUf1VCMeWoh\nQOzusL/qagW05Nn7NKrAEIvEuTIuDjHCYXOjTp1Oav3snyCcPrZnM9vkysKW9VrQ\ntwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:19:03,592 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:19:03,593 DEBUG server.py Auth message = {'response': 511, 'bin': '2b73ff032c423eed11779f88e0212e426b08a3c95f26ccac8342f5fa697477c727fd22c0a64b5bf176034a841f93c68903af1092abef1462f131a91749cf721a'}
+2021-04-16 01:19:03,705 INFO server.py Установлено соединение с ПК ('127.0.0.1', 56944)
+2021-04-16 01:19:03,706 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:19:03,706 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618525143.5001402, 'account_name': 'KIBORG2'}
+2021-04-16 01:19:03,726 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618525143.6141407, 'account_name': 'KIBORG1'}
+2021-04-16 01:19:03,726 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525143.3731403, 'user': {'account_name': 'KIBORG4', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtkpZrXoaf5l12DbQ11o+\nUj6CB9DCdZGqZ1dJ36JkFOOzkQkh/yPhYhp5g1KS8h78wBCnVHSBLRjp69qgysa5\nfYg/LVfLX2s+t8lVKkBM4DFINLXpDYwncp7Kos5oBUUVJH+kf/69HBpLohH4w51n\nXof5tAoaPV88S+4snfEoY/B3lStBrQ5JoefRTZXK7uBZh7/pRh06zi49Mo3THc2I\nEdM4KFvk/7/gFSOr88L57PhwwJE/LL/mkXbpMDKCNsZu1fh2ZpQDyXRonRW/KFx6\nFpEZEEX5qk7j5T79nxXF1IoIMjPEYEPBYWu9rMSSqfqWRiY1Brs11xsYP2eQyxU8\nLQIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:19:03,728 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:19:03,729 DEBUG server.py Auth message = {'response': 511, 'bin': '7c1e3e0ee3ef7da901cf3aa3e2be6d7c3e37aabba760fa3b21cfe23ec439138e731563e90744c0fd3181762e6553373c9087efa117202e5069b634b92beab61b'}
+2021-04-16 01:19:03,810 INFO server.py Ошибка при получении сообщения: [WinError 10038] Сделана попытка выполнить операцию на объекте, не являющемся сокетом
+2021-04-16 01:22:36,906 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:22:41,588 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57078)
+2021-04-16 01:22:41,594 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57079)
+2021-04-16 01:22:41,594 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:22:41,594 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525361.589894, 'user': {'account_name': 'KIBORG2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAolmZ04l2I+SFXabwwohN\n3qR1ICvMKpyOcalqRo0WX/8YHUvwW7fZBEfslHieqlU73SvrD8n+XuYXwlw2YRAZ\n0+zYHsKZyA8bLljpxLpL5ArGy7tz+sKedN41Brb3lpnBGB8wKNUlNAP4K5Pa/d2f\nok8dOXPh79VggcLCRA9mONXfULyEAJSME8do89gfy6pLwVAYtW/LE9HgV+/1YmGl\n4/xznIcFyBPFpj17U8/9bZzagSUdlFF+VqjEmJ9z7wM6lWEOCn5vQ8RXq6wPqL/u\n3Ek9H3qBUqadmeFG8wri/p0Uj9/f8gJY/vXQPlFsc3KLLhm0AljRrCE6NK1gtyn9\nUQIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:22:41,601 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:22:41,603 DEBUG server.py Auth message = {'response': 511, 'bin': '35ed7deb79e9f0a113eaaf679b38e1d102ef1fa488d6eb65076f88d940701d19e6396a44b81aaebe124c7c821b91979ac62726298a8af57285a1c5c724529ec6'}
+2021-04-16 01:22:41,682 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57080)
+2021-04-16 01:22:41,683 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:22:41,683 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525361.5958946, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:22:41,693 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:22:41,694 DEBUG server.py Auth message = {'response': 511, 'bin': '21111610c7697d2c3883f9b3f2dbce4a3d89a27f0061f48fca91e158554715227fc1011c9ca488fa138e57fbbdd597c08599338789971a26e4f05f050a6e1479'}
+2021-04-16 01:22:41,775 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525361.5958946, 'user': {'account_name': 'KIBORG3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAreOowvQzqwZ9M3GlnTb/\nvea3TJ/ZPCahCbZ7H7PdUcBHOyzxMHqt2YD7lk2KBUvx16r+l+r4CI1Og4HoC7LH\nJl/uMU4Naod4WWAvqk3I8o36Q+xF2U5xKvWUl60DAKHRVf/MFX9mc0biYMtuYTLe\nzx2I+k2CD5bld5AynWiM4rnNTQm8M6fOzNEyw0Q2QilXC7i/iCtuE8oXpJrvnniK\n46PW58FhxGUKFH8J/xC4qt4Y1QFx1FyoV9cRletSdemck0LD+NDd4IUf1VCMeWoh\nQOzusL/qagW05Nn7NKrAEIvEuTIuDjHCYXOjTp1Oav3snyCcPrZnM9vkysKW9VrQ\ntwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:22:41,787 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:22:41,788 DEBUG server.py Auth message = {'response': 511, 'bin': 'a987e531b0246070dc87d2617997c2337a7326da1e9bc8533c21147351c7343e7ef628cba4115d1389ba5c60599d7ff541150b062a17cda177030312309e0420'}
+2021-04-16 01:22:42,367 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:22:42,367 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618525361.7238944, 'account_name': 'KIBORG2'}
+2021-04-16 01:22:42,377 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618525361.8219042, 'account_name': 'KIBORG1'}
+2021-04-16 01:22:42,378 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618525361.9108942, 'account_name': 'KIBORG3'}
+2021-04-16 01:22:42,879 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:22:42,879 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618525362.4039624, 'user': 'KIBORG2'}
+2021-04-16 01:22:42,883 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618525362.403023, 'user': 'KIBORG1'}
+2021-04-16 01:22:42,885 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618525362.4039624, 'user': 'KIBORG3'}
+2021-04-16 01:22:58,402 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:22:58,402 INFO server.py Разбор сообщения от клиента : {'action': 'add', 'time': 1618525378.297798, 'user': 'KIBORG1', 'account_name': 'KIBORG3'}
+2021-04-16 01:23:03,919 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:23:03,919 INFO server.py Разбор сообщения от клиента : {'action': 'add', 'time': 1618525383.7876787, 'user': 'KIBORG1', 'account_name': 'KIBORG2'}
+2021-04-16 01:23:07,441 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:23:07,441 INFO server.py Разбор сообщения от клиента : {'action': 'add', 'time': 1618525387.0212698, 'user': 'KIBORG1', 'account_name': 'KIBORG4'}
+2021-04-16 01:23:12,465 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:23:12,465 INFO server.py Разбор сообщения от клиента : {'action': 'add', 'time': 1618525392.329959, 'user': 'KIBORG2', 'account_name': 'KIBORG1'}
+2021-04-16 01:23:16,494 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:23:16,494 INFO server.py Разбор сообщения от клиента : {'action': 'add', 'time': 1618525396.4138057, 'user': 'KIBORG2', 'account_name': 'KIBORG3'}
+2021-04-16 01:23:21,524 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:23:21,524 INFO server.py Разбор сообщения от клиента : {'action': 'add', 'time': 1618525401.3456666, 'user': 'KIBORG3', 'account_name': 'KIBORG1'}
+2021-04-16 01:23:25,552 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:23:25,552 INFO server.py Разбор сообщения от клиента : {'action': 'add', 'time': 1618525405.543535, 'user': 'KIBORG3', 'account_name': 'KIBORG2'}
+2021-04-16 01:23:29,074 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:23:29,074 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618525408.718799, 'account_name': 'KIBORG1'}
+2021-04-16 01:23:34,579 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:23:34,579 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618525413.8238213, 'account_name': 'KIBORG2'}
+2021-04-16 01:26:30,227 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:26:46,052 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57219)
+2021-04-16 01:26:46,057 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57220)
+2021-04-16 01:26:46,057 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:26:46,058 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525606.0537462, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:26:46,064 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:26:46,066 DEBUG server.py Auth message = {'response': 511, 'bin': '8762e5d7cecdae9d26106d6dd91b9253b1ac203f266655c9a54591ba30211d317f1a8bcb2b10c98078bc7a3fdf9035dd03c75f548a198c5a383eac468dbd11db'}
+2021-04-16 01:26:46,181 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57221)
+2021-04-16 01:26:46,181 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:26:46,182 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525606.0587475, 'user': {'account_name': 'KIBORG3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAreOowvQzqwZ9M3GlnTb/\nvea3TJ/ZPCahCbZ7H7PdUcBHOyzxMHqt2YD7lk2KBUvx16r+l+r4CI1Og4HoC7LH\nJl/uMU4Naod4WWAvqk3I8o36Q+xF2U5xKvWUl60DAKHRVf/MFX9mc0biYMtuYTLe\nzx2I+k2CD5bld5AynWiM4rnNTQm8M6fOzNEyw0Q2QilXC7i/iCtuE8oXpJrvnniK\n46PW58FhxGUKFH8J/xC4qt4Y1QFx1FyoV9cRletSdemck0LD+NDd4IUf1VCMeWoh\nQOzusL/qagW05Nn7NKrAEIvEuTIuDjHCYXOjTp1Oav3snyCcPrZnM9vkysKW9VrQ\ntwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:26:46,197 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:26:46,198 DEBUG server.py Auth message = {'response': 511, 'bin': '782bd905895adbb21d96768e0ec8ac04e36e19d5c55d45cf83770dae347595ca982028ef7b8219822557d17e49a61a34130a1cc769c386ea64709dd7dcad4731'}
+2021-04-16 01:26:46,280 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525606.067747, 'user': {'account_name': 'KIBORG2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAolmZ04l2I+SFXabwwohN\n3qR1ICvMKpyOcalqRo0WX/8YHUvwW7fZBEfslHieqlU73SvrD8n+XuYXwlw2YRAZ\n0+zYHsKZyA8bLljpxLpL5ArGy7tz+sKedN41Brb3lpnBGB8wKNUlNAP4K5Pa/d2f\nok8dOXPh79VggcLCRA9mONXfULyEAJSME8do89gfy6pLwVAYtW/LE9HgV+/1YmGl\n4/xznIcFyBPFpj17U8/9bZzagSUdlFF+VqjEmJ9z7wM6lWEOCn5vQ8RXq6wPqL/u\n3Ek9H3qBUqadmeFG8wri/p0Uj9/f8gJY/vXQPlFsc3KLLhm0AljRrCE6NK1gtyn9\nUQIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:26:46,291 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:26:46,292 DEBUG server.py Auth message = {'response': 511, 'bin': 'f40b76828f28ac8234916a448ad097e35aecc360e8b7d2a65bb9f7ce77156e162a38ab18e5d375a8b17f7dbe7cf96715333245c42ce0ee094ec6be7476737fed'}
+2021-04-16 01:26:46,873 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:26:46,873 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618525606.1897483, 'account_name': 'KIBORG1'}
+2021-04-16 01:26:46,883 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618525606.3237474, 'account_name': 'KIBORG3'}
+2021-04-16 01:26:46,884 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618525606.4157465, 'account_name': 'KIBORG2'}
+2021-04-16 01:26:47,385 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:26:47,385 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618525606.909807, 'user': 'KIBORG1'}
+2021-04-16 01:26:47,389 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618525606.909807, 'user': 'KIBORG3'}
+2021-04-16 01:26:47,391 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618525606.9078186, 'user': 'KIBORG2'}
+2021-04-16 01:26:53,900 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:26:53,900 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618525613.415059, 'account_name': 'KIBORG1'}
+2021-04-16 01:26:53,900 INFO server.py Ошибка при получении сообщения: 'ServerDB' object has no attribute 'get_pubkey'
+2021-04-16 01:31:34,928 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:31:39,443 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57389)
+2021-04-16 01:31:39,447 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57390)
+2021-04-16 01:31:39,447 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:31:39,447 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525899.4437096, 'user': {'account_name': 'KIBORG3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAreOowvQzqwZ9M3GlnTb/\nvea3TJ/ZPCahCbZ7H7PdUcBHOyzxMHqt2YD7lk2KBUvx16r+l+r4CI1Og4HoC7LH\nJl/uMU4Naod4WWAvqk3I8o36Q+xF2U5xKvWUl60DAKHRVf/MFX9mc0biYMtuYTLe\nzx2I+k2CD5bld5AynWiM4rnNTQm8M6fOzNEyw0Q2QilXC7i/iCtuE8oXpJrvnniK\n46PW58FhxGUKFH8J/xC4qt4Y1QFx1FyoV9cRletSdemck0LD+NDd4IUf1VCMeWoh\nQOzusL/qagW05Nn7NKrAEIvEuTIuDjHCYXOjTp1Oav3snyCcPrZnM9vkysKW9VrQ\ntwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:31:39,454 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:31:39,455 DEBUG server.py Auth message = {'response': 511, 'bin': '34a214962a5f438c540da59d277a16b92879eecda3ee85f80c664708975aa959b6fc5b617482309d332668a75340d990845cbd1c135fa3be0fe487959855f7fe'}
+2021-04-16 01:31:39,570 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57391)
+2021-04-16 01:31:39,570 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:31:39,570 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618525899.56971, 'account_name': 'KIBORG3'}
+2021-04-16 01:31:39,591 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525899.448711, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:31:39,592 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:31:39,593 DEBUG server.py Auth message = {'response': 511, 'bin': '0f255b37e884097d4499d8738466412b7b2df7740f3685876a7f18ab73dc210c2d30d4dcdad9829503ee78a00b7e84cbd7b2333de4bfa43f2d32aeed84a57eca'}
+2021-04-16 01:31:39,674 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618525899.4717124, 'user': {'account_name': 'KIBORG2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAolmZ04l2I+SFXabwwohN\n3qR1ICvMKpyOcalqRo0WX/8YHUvwW7fZBEfslHieqlU73SvrD8n+XuYXwlw2YRAZ\n0+zYHsKZyA8bLljpxLpL5ArGy7tz+sKedN41Brb3lpnBGB8wKNUlNAP4K5Pa/d2f\nok8dOXPh79VggcLCRA9mONXfULyEAJSME8do89gfy6pLwVAYtW/LE9HgV+/1YmGl\n4/xznIcFyBPFpj17U8/9bZzagSUdlFF+VqjEmJ9z7wM6lWEOCn5vQ8RXq6wPqL/u\n3Ek9H3qBUqadmeFG8wri/p0Uj9/f8gJY/vXQPlFsc3KLLhm0AljRrCE6NK1gtyn9\nUQIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:31:39,689 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:31:39,690 DEBUG server.py Auth message = {'response': 511, 'bin': '3ca9d1a8149d2b7e9883b1161a8f75b29f1f777643e289ff881c3bc428fe893fd8edfb6354799f870cf65e0f67426fc58df53dc920aa68d0cfdfac4f4e8bd43a'}
+2021-04-16 01:31:40,271 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:31:40,271 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618525899.6127117, 'user': 'KIBORG3'}
+2021-04-16 01:31:40,284 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618525899.7077107, 'account_name': 'KIBORG1'}
+2021-04-16 01:31:40,285 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618525899.805713, 'account_name': 'KIBORG2'}
+2021-04-16 01:31:40,786 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:31:40,786 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618525900.3101962, 'user': 'KIBORG1'}
+2021-04-16 01:31:40,788 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618525900.3091578, 'user': 'KIBORG2'}
+2021-04-16 01:31:45,294 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:31:45,294 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618525904.933983, 'account_name': 'KIBORG1'}
+2021-04-16 01:31:45,294 INFO server.py Ошибка при получении сообщения: 'ServerDB' object has no attribute 'get_pubkey'
+2021-04-16 01:33:40,542 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:33:44,844 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57462)
+2021-04-16 01:33:44,856 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57463)
+2021-04-16 01:33:44,857 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:33:44,857 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526024.8453238, 'user': {'account_name': 'KIBORG2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAolmZ04l2I+SFXabwwohN\n3qR1ICvMKpyOcalqRo0WX/8YHUvwW7fZBEfslHieqlU73SvrD8n+XuYXwlw2YRAZ\n0+zYHsKZyA8bLljpxLpL5ArGy7tz+sKedN41Brb3lpnBGB8wKNUlNAP4K5Pa/d2f\nok8dOXPh79VggcLCRA9mONXfULyEAJSME8do89gfy6pLwVAYtW/LE9HgV+/1YmGl\n4/xznIcFyBPFpj17U8/9bZzagSUdlFF+VqjEmJ9z7wM6lWEOCn5vQ8RXq6wPqL/u\n3Ek9H3qBUqadmeFG8wri/p0Uj9/f8gJY/vXQPlFsc3KLLhm0AljRrCE6NK1gtyn9\nUQIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:33:44,863 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:33:44,865 DEBUG server.py Auth message = {'response': 511, 'bin': '24174aa2892355365ffc3e8b367a83d10fce650a3cb33d7eb1e1d2f1e2352636bba240952321dd667d6b698b49ea37999c78c2bd580bcb8d034f3226ccfe7c80'}
+2021-04-16 01:33:44,946 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57464)
+2021-04-16 01:33:44,946 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:33:44,947 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526024.8573241, 'user': {'account_name': 'KIBORG3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAreOowvQzqwZ9M3GlnTb/\nvea3TJ/ZPCahCbZ7H7PdUcBHOyzxMHqt2YD7lk2KBUvx16r+l+r4CI1Og4HoC7LH\nJl/uMU4Naod4WWAvqk3I8o36Q+xF2U5xKvWUl60DAKHRVf/MFX9mc0biYMtuYTLe\nzx2I+k2CD5bld5AynWiM4rnNTQm8M6fOzNEyw0Q2QilXC7i/iCtuE8oXpJrvnniK\n46PW58FhxGUKFH8J/xC4qt4Y1QFx1FyoV9cRletSdemck0LD+NDd4IUf1VCMeWoh\nQOzusL/qagW05Nn7NKrAEIvEuTIuDjHCYXOjTp1Oav3snyCcPrZnM9vkysKW9VrQ\ntwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:33:44,958 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:33:44,959 DEBUG server.py Auth message = {'response': 511, 'bin': '347ebe6ca6643ae007b44e88521a63d23efe723e7ef4e47cbf1697ea1c7d30b216aa54b32d1d02942871fb3a4f25fc78f17d1c97e899abe3f9784fcc0e49308a'}
+2021-04-16 01:33:45,042 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526024.8683236, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:33:45,052 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:33:45,053 DEBUG server.py Auth message = {'response': 511, 'bin': 'dfce57b8a8c106569bec18abb3d385663d5b3bd4ff6b101d5bd34499a2f105a6c81c222fadb813d72ce4692046c101895e442ab9c7156a35e1c4fb244a84816f'}
+2021-04-16 01:33:45,638 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:33:45,638 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526025.0083258, 'account_name': 'KIBORG2'}
+2021-04-16 01:33:45,648 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526025.1063254, 'account_name': 'KIBORG3'}
+2021-04-16 01:33:45,649 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526025.1963246, 'account_name': 'KIBORG1'}
+2021-04-16 01:33:46,150 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:33:46,150 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526025.6751392, 'user': 'KIBORG2'}
+2021-04-16 01:33:46,154 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526025.6771383, 'user': 'KIBORG3'}
+2021-04-16 01:33:46,156 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526025.6751392, 'user': 'KIBORG1'}
+2021-04-16 01:33:49,161 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:33:49,161 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618526028.7200937, 'account_name': 'KIBORG3'}
+2021-04-16 01:33:49,161 INFO server.py Ошибка при получении сообщения: 'ServerDB' object has no attribute 'get_pubkey'
+2021-04-16 01:34:31,917 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:34:41,675 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:34:51,567 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57507)
+2021-04-16 01:34:52,067 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:34:52,068 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526091.568325, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:34:52,081 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:34:52,085 DEBUG server.py Auth message = {'response': 511, 'bin': '5178d7940c20766e81fe86466bb3ec8ea16fe0b23fe80566468058cbad436538557a4c1854ec1afd775faca5716abf0d415a75f519793523fe95421cbf10bc0b'}
+2021-04-16 01:34:52,696 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:34:52,696 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526092.1949584, 'account_name': 'KIBORG1'}
+2021-04-16 01:34:53,207 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:34:53,207 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526092.7851295, 'user': 'KIBORG1'}
+2021-04-16 01:35:08,734 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:35:08,738 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618526108.3880033, 'account_name': 'KIBORG2'}
+2021-04-16 01:35:36,108 INFO server.py Ошибка при получении сообщения: 'ServerDB' object has no attribute 'get_pubkey'
+2021-04-16 01:36:26,657 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:36:30,086 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57563)
+2021-04-16 01:36:30,092 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57564)
+2021-04-16 01:36:30,092 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:36:30,092 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526190.0874426, 'user': {'account_name': 'KIBORG3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAreOowvQzqwZ9M3GlnTb/\nvea3TJ/ZPCahCbZ7H7PdUcBHOyzxMHqt2YD7lk2KBUvx16r+l+r4CI1Og4HoC7LH\nJl/uMU4Naod4WWAvqk3I8o36Q+xF2U5xKvWUl60DAKHRVf/MFX9mc0biYMtuYTLe\nzx2I+k2CD5bld5AynWiM4rnNTQm8M6fOzNEyw0Q2QilXC7i/iCtuE8oXpJrvnniK\n46PW58FhxGUKFH8J/xC4qt4Y1QFx1FyoV9cRletSdemck0LD+NDd4IUf1VCMeWoh\nQOzusL/qagW05Nn7NKrAEIvEuTIuDjHCYXOjTp1Oav3snyCcPrZnM9vkysKW9VrQ\ntwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:36:30,099 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:36:30,100 DEBUG server.py Auth message = {'response': 511, 'bin': '9b70825bb106e9a5ce61cd01ed3a70d853fc7f3c85650c2ef51d63f77d76e04411c8fd6f9d62de91a49a24f9f215f244a7c9048da3be583bebdf4d83daf1983a'}
+2021-04-16 01:36:30,183 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57565)
+2021-04-16 01:36:30,183 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:36:30,183 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526190.0935116, 'user': {'account_name': 'KIBORG2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAolmZ04l2I+SFXabwwohN\n3qR1ICvMKpyOcalqRo0WX/8YHUvwW7fZBEfslHieqlU73SvrD8n+XuYXwlw2YRAZ\n0+zYHsKZyA8bLljpxLpL5ArGy7tz+sKedN41Brb3lpnBGB8wKNUlNAP4K5Pa/d2f\nok8dOXPh79VggcLCRA9mONXfULyEAJSME8do89gfy6pLwVAYtW/LE9HgV+/1YmGl\n4/xznIcFyBPFpj17U8/9bZzagSUdlFF+VqjEmJ9z7wM6lWEOCn5vQ8RXq6wPqL/u\n3Ek9H3qBUqadmeFG8wri/p0Uj9/f8gJY/vXQPlFsc3KLLhm0AljRrCE6NK1gtyn9\nUQIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:36:30,196 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:36:30,197 DEBUG server.py Auth message = {'response': 511, 'bin': '7c83f4b54ef11aaacc889f1ac39377cef920e0a27b488c3c93dc29602ee859a421ef181641deb54b019c849be20f25f7b5b4fc4a7fc612d9a813ce03dd113117'}
+2021-04-16 01:36:30,314 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526190.0954418, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:36:30,338 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:36:30,339 DEBUG server.py Auth message = {'response': 511, 'bin': '16f48ceffd8dde4b2c524b80c0ba02e979ac7d10ef6aecb09e8419954425de53713d2c044866a8339fdcd03d1c1df9fac48ac87f2dbc56e507eb4c4f2ad40df1'}
+2021-04-16 01:36:30,951 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:36:30,951 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526190.2164416, 'account_name': 'KIBORG3'}
+2021-04-16 01:36:30,961 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526190.315442, 'account_name': 'KIBORG2'}
+2021-04-16 01:36:30,962 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526190.449443, 'account_name': 'KIBORG1'}
+2021-04-16 01:36:31,464 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:36:31,464 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526190.9875486, 'user': 'KIBORG3'}
+2021-04-16 01:36:31,468 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526190.988551, 'user': 'KIBORG2'}
+2021-04-16 01:36:31,470 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526191.0375485, 'user': 'KIBORG1'}
+2021-04-16 01:36:34,975 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:36:34,975 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618526194.532525, 'account_name': 'KIBORG1'}
+2021-04-16 01:36:46,989 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:36:46,989 INFO server.py Разбор сообщения от клиента : {'action': 'message', 'sender': 'KIBORG2', 'to': 'KIBORG1', 'time': 1618526206.735949, 'mess_text': 'b1C9b0atpHrtl4fmQLE35d5YZjGAXmz7ZavrNjyamJhwA/WcYtA0/2a6JfbXnjhtpPglBLkl0n7UWdrzNpQHGjo4BFnZBvgNvoOUlmWNsSgI8ujllM5PTfZrAKGDnfSq21WRgv4nrHcBpTX0LNrJYTYqXVp0x1fOqAH7Q+AicTUh6vY/shbqULlewt2NYbN4cQK6LDq8EYx0pSc8WlyE21u6pNie8Uf1Rv5xO8HYEu4+8z9ZdkL6Cn0kETQS8yD15iIxWaUF2WTx4Hr5UVVE5b8cIGwyE+DShvFNcdCEOS54xBECs0xl0dHTkhqFvaaEZ6phgNrpf4/DElKslWWA0g=='}
+2021-04-16 01:36:46,989 ERROR server_database.py process_message не нашел пользователя "sender" в таблице ChatUsers
+2021-04-16 01:36:46,990 INFO server.py Сообщение от клиента добавлено в очередь
+2021-04-16 01:36:46,991 INFO server.py Отправлено сообщение пользователю KIBORG1 от пользователя KIBORG2.
+2021-04-16 01:37:32,148 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:37:38,648 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57604)
+2021-04-16 01:37:38,653 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57605)
+2021-04-16 01:37:38,653 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:37:38,653 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526258.6483133, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:37:38,660 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:37:38,662 DEBUG server.py Auth message = {'response': 511, 'bin': '415e3e60427afe6ca926c6f3446aacd826fe60f57ee2b37282abc8efbd301d73ad1a32ba5a943f583173572ad95ff0617f226fd011b096b82c2254a99cf6047f'}
+2021-04-16 01:37:38,775 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57606)
+2021-04-16 01:37:38,776 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:37:38,776 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526258.6543126, 'user': {'account_name': 'KIBORG3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAreOowvQzqwZ9M3GlnTb/\nvea3TJ/ZPCahCbZ7H7PdUcBHOyzxMHqt2YD7lk2KBUvx16r+l+r4CI1Og4HoC7LH\nJl/uMU4Naod4WWAvqk3I8o36Q+xF2U5xKvWUl60DAKHRVf/MFX9mc0biYMtuYTLe\nzx2I+k2CD5bld5AynWiM4rnNTQm8M6fOzNEyw0Q2QilXC7i/iCtuE8oXpJrvnniK\n46PW58FhxGUKFH8J/xC4qt4Y1QFx1FyoV9cRletSdemck0LD+NDd4IUf1VCMeWoh\nQOzusL/qagW05Nn7NKrAEIvEuTIuDjHCYXOjTp1Oav3snyCcPrZnM9vkysKW9VrQ\ntwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:37:38,795 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:37:38,796 DEBUG server.py Auth message = {'response': 511, 'bin': 'b718a8bb97d50fc900105ac4954e44121423e893239b31f968e8195815d80fcb92d55026d0f25d80fae9cbfb8dd3e1fcc8dff7a19fafe3f5de296875f23817ee'}
+2021-04-16 01:37:38,881 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526258.659319, 'user': {'account_name': 'KIBORG2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAolmZ04l2I+SFXabwwohN\n3qR1ICvMKpyOcalqRo0WX/8YHUvwW7fZBEfslHieqlU73SvrD8n+XuYXwlw2YRAZ\n0+zYHsKZyA8bLljpxLpL5ArGy7tz+sKedN41Brb3lpnBGB8wKNUlNAP4K5Pa/d2f\nok8dOXPh79VggcLCRA9mONXfULyEAJSME8do89gfy6pLwVAYtW/LE9HgV+/1YmGl\n4/xznIcFyBPFpj17U8/9bZzagSUdlFF+VqjEmJ9z7wM6lWEOCn5vQ8RXq6wPqL/u\n3Ek9H3qBUqadmeFG8wri/p0Uj9/f8gJY/vXQPlFsc3KLLhm0AljRrCE6NK1gtyn9\nUQIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:37:38,892 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:37:38,893 DEBUG server.py Auth message = {'response': 511, 'bin': '447a1cdae5326cdf829d1ce390dd16d3c81cfb9ff32280ffc958eeac453bc5f4703ff76a9fd56804b6128789e9cf37239523b5c1e429408b8e9026f125b401d6'}
+2021-04-16 01:37:39,504 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:37:39,504 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526258.790313, 'account_name': 'KIBORG1'}
+2021-04-16 01:37:39,514 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526258.9143155, 'account_name': 'KIBORG3'}
+2021-04-16 01:37:39,515 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526259.0163143, 'account_name': 'KIBORG2'}
+2021-04-16 01:37:40,016 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:37:40,016 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526259.5418837, 'user': 'KIBORG1'}
+2021-04-16 01:37:40,020 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526259.5408885, 'user': 'KIBORG3'}
+2021-04-16 01:37:40,022 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526259.5418837, 'user': 'KIBORG2'}
+2021-04-16 01:37:40,524 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:37:40,524 INFO server.py Клиент ('127.0.0.1', 57604) отключился от сервера.
+2021-04-16 01:37:40,530 INFO server.py Клиент ('127.0.0.1', 57605) отключился от сервера.
+2021-04-16 01:37:40,544 INFO server.py Клиент ('127.0.0.1', 57606) отключился от сервера.
+2021-04-16 01:38:32,285 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:38:35,265 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57638)
+2021-04-16 01:38:35,270 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57639)
+2021-04-16 01:38:35,270 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:38:35,270 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526315.2664118, 'user': {'account_name': 'KIBORG2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAolmZ04l2I+SFXabwwohN\n3qR1ICvMKpyOcalqRo0WX/8YHUvwW7fZBEfslHieqlU73SvrD8n+XuYXwlw2YRAZ\n0+zYHsKZyA8bLljpxLpL5ArGy7tz+sKedN41Brb3lpnBGB8wKNUlNAP4K5Pa/d2f\nok8dOXPh79VggcLCRA9mONXfULyEAJSME8do89gfy6pLwVAYtW/LE9HgV+/1YmGl\n4/xznIcFyBPFpj17U8/9bZzagSUdlFF+VqjEmJ9z7wM6lWEOCn5vQ8RXq6wPqL/u\n3Ek9H3qBUqadmeFG8wri/p0Uj9/f8gJY/vXQPlFsc3KLLhm0AljRrCE6NK1gtyn9\nUQIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:38:35,277 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:38:35,279 DEBUG server.py Auth message = {'response': 511, 'bin': '6449aa2322cf3fbfb5789d25c97d3b39e154a3bd9482ea94d6cdbd1216bef6d2f3eba47ff7f16d57487b0b4de22f3eb68effa652dbdc3c5a5bfb73517450dc63'}
+2021-04-16 01:38:35,889 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:38:35,889 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526315.3994107, 'account_name': 'KIBORG2'}
+2021-04-16 01:38:35,899 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526315.2714114, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:38:35,900 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:38:35,901 DEBUG server.py Auth message = {'response': 511, 'bin': '38f8ef2559e2aa86a5bfd82143dbf360eb80b782a1a8f579c48df53c9dba2a86406477e3b7b32c7c25a4654c461fc572647070ec2600549657ca43c77b8cb308'}
+2021-04-16 01:38:36,513 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:38:36,513 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526315.923497, 'user': 'KIBORG2'}
+2021-04-16 01:38:36,527 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526316.0255554, 'account_name': 'KIBORG1'}
+2021-04-16 01:38:37,027 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:38:37,027 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526316.5549493, 'user': 'KIBORG1'}
+2021-04-16 01:38:40,533 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:38:40,533 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618526319.7575972, 'account_name': 'KIBORG2'}
+2021-04-16 01:38:53,545 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:38:53,545 INFO server.py Разбор сообщения от клиента : {'action': 'message', 'sender': 'KIBORG1', 'to': 'KIBORG2', 'time': 1618526333.3436763, 'mess_text': 'D8YXJU3p4Yek48lQYq9iN+Hf2h2HE7kw2VWGhSPO3XAvz1jZLysqW3PH2SnUkFtl6+EeRos+qAOIdVfVQca/y7MBOaBTyGvPSl/f9mctJ9NYp81Q3RCH7TzV1in9pwPTurNCxfgN5Y7bAZTVNNQI8TPEJgPay0gEXLWBmZb8rpPwNjBYrxoxQCZ0t2DlsP7U+HD5yEGkCFOEGzMyCBDwJFer8M/dsvqKwt9rQRq2ALwlx6WmeUv5py4DbqqLWW+qCMIUsy4ObjBQSXH4dJXBERLKIU2ZWvkwTLBhBeYlW+f91DW4Q3ZOBy3Cz49MvdVA7x9Li3dqH2fKFIX3n11tKg=='}
+2021-04-16 01:38:53,546 ERROR server_database.py process_message не нашел пользователя "sender" в таблице ChatUsers
+2021-04-16 01:38:53,546 INFO server.py Сообщение от клиента добавлено в очередь
+2021-04-16 01:38:53,547 INFO server.py Отправлено сообщение пользователю KIBORG2 от пользователя KIBORG1.
+2021-04-16 01:38:56,049 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:38:56,049 INFO server.py Клиент ('127.0.0.1', 57638) отключился от сервера.
+2021-04-16 01:40:54,829 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: 127.0.0.1. Если адрес не указан, принимаются соединения с любых адресов.
+2021-04-16 01:40:57,293 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57722)
+2021-04-16 01:40:57,303 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57723)
+2021-04-16 01:40:57,304 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:40:57,304 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526457.2942204, 'user': {'account_name': 'KIBORG2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAolmZ04l2I+SFXabwwohN\n3qR1ICvMKpyOcalqRo0WX/8YHUvwW7fZBEfslHieqlU73SvrD8n+XuYXwlw2YRAZ\n0+zYHsKZyA8bLljpxLpL5ArGy7tz+sKedN41Brb3lpnBGB8wKNUlNAP4K5Pa/d2f\nok8dOXPh79VggcLCRA9mONXfULyEAJSME8do89gfy6pLwVAYtW/LE9HgV+/1YmGl\n4/xznIcFyBPFpj17U8/9bZzagSUdlFF+VqjEmJ9z7wM6lWEOCn5vQ8RXq6wPqL/u\n3Ek9H3qBUqadmeFG8wri/p0Uj9/f8gJY/vXQPlFsc3KLLhm0AljRrCE6NK1gtyn9\nUQIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:40:57,310 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:40:57,312 DEBUG server.py Auth message = {'response': 511, 'bin': '7f1f718c2f0914458dcf0ed32ee19a2622059c9fc9d86e79fb071dbac73985ab3c8af4c8ebc840728192b90cc81b3c99d99c66a5737b07f02033b153d152484f'}
+2021-04-16 01:40:57,924 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:40:57,924 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526457.4342186, 'account_name': 'KIBORG2'}
+2021-04-16 01:40:57,934 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526457.3042204, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:40:57,935 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:40:57,936 DEBUG server.py Auth message = {'response': 511, 'bin': 'efb442a5aba016b5f0e9e15d6350460b4c5a5f2cf2839b13f7814524cc554ed5f839dd259b7a383f641a3d0467097039e2a5df1662adf70b6d1dd0f8b4f83972'}
+2021-04-16 01:40:58,553 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:40:58,553 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526457.9575408, 'user': 'KIBORG2'}
+2021-04-16 01:40:58,569 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526458.0675638, 'account_name': 'KIBORG1'}
+2021-04-16 01:40:59,070 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:40:59,070 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526458.596908, 'user': 'KIBORG1'}
+2021-04-16 01:41:03,576 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:41:03,576 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618526463.4678884, 'account_name': 'KIBORG1'}
+2021-04-16 01:41:17,093 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:41:17,093 INFO server.py Разбор сообщения от клиента : {'action': 'message', 'sender': 'KIBORG2', 'to': 'KIBORG1', 'time': 1618526476.8079617, 'mess_text': 'pD1nU6r0nbWGMzPPNhA9ZkOQrnQjKwOfartGJIMbS6CPf0awkAWJUOUHNGan9Jwfz8AFxFvPqZ0Mb0Dx1aMUCY2rFbF/9GyZIGEaidUrQFSEsEFF8kR6150BWwVdYQK60LdqOXC8A201v3t6RnscJRFs8gQ6IwjtnVOGPpi44CRrwbyg8WiLFqy6YQfKOHDpgDaqelL9eA31n9BHzuUPvoa0Ywko3c8yguEMnK4DJLTcM/F59HaEIMxfjmh70uzLNLsL/nJU8mrif9YaKxjpW1XQO0B5N+d3yRo3evnEGClO/OteBQej9oQ+yLIP0ZW34B014PU2XB09K4oWWEbXVA=='}
+2021-04-16 01:41:17,094 ERROR server_database.py process_message не нашел пользователя "sender" в таблице ChatUsers
+2021-04-16 01:41:17,095 INFO server.py Сообщение от клиента добавлено в очередь
+2021-04-16 01:41:17,095 INFO server.py Отправлено сообщение пользователю KIBORG1 от пользователя KIBORG2.
+2021-04-16 01:41:19,098 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:41:19,098 INFO server.py Клиент ('127.0.0.1', 57723) отключился от сервера.
+2021-04-16 01:41:41,636 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:41:41,636 INFO server.py Клиент ('127.0.0.1', 57722) отключился от сервера.
+2021-04-16 01:41:50,708 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57756)
+2021-04-16 01:41:50,715 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57757)
+2021-04-16 01:41:50,716 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:41:50,716 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526510.7094264, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:41:50,726 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:41:50,727 DEBUG server.py Auth message = {'response': 511, 'bin': 'b73f7bcd9b76e3c2854b668bd5a5b43d83da24b3d1557705ac7a93e1e22438a4337e8d4987b4f605f5a33febc854528e780999d76162c4ec3b63d1070fe12606'}
+2021-04-16 01:41:51,340 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:41:51,340 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526510.856431, 'account_name': 'KIBORG1'}
+2021-04-16 01:41:51,350 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526510.7164278, 'user': {'account_name': 'KIBORG2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAolmZ04l2I+SFXabwwohN\n3qR1ICvMKpyOcalqRo0WX/8YHUvwW7fZBEfslHieqlU73SvrD8n+XuYXwlw2YRAZ\n0+zYHsKZyA8bLljpxLpL5ArGy7tz+sKedN41Brb3lpnBGB8wKNUlNAP4K5Pa/d2f\nok8dOXPh79VggcLCRA9mONXfULyEAJSME8do89gfy6pLwVAYtW/LE9HgV+/1YmGl\n4/xznIcFyBPFpj17U8/9bZzagSUdlFF+VqjEmJ9z7wM6lWEOCn5vQ8RXq6wPqL/u\n3Ek9H3qBUqadmeFG8wri/p0Uj9/f8gJY/vXQPlFsc3KLLhm0AljRrCE6NK1gtyn9\nUQIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:41:51,351 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:41:51,352 DEBUG server.py Auth message = {'response': 511, 'bin': '8a721db3c6d4cdcc30968991051426e9e1fe974edbfc38837035e4d429dbe3d6fb6e0a87025802dcdd50a995b79441bcf3ba6225bd1752641a7973f8fccf70af'}
+2021-04-16 01:41:51,967 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:41:51,967 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526511.372855, 'user': 'KIBORG1'}
+2021-04-16 01:41:51,978 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526511.4768572, 'account_name': 'KIBORG2'}
+2021-04-16 01:41:52,480 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:41:52,480 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526512.0034344, 'user': 'KIBORG2'}
+2021-04-16 01:41:56,986 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:41:56,986 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618526516.4733763, 'account_name': 'KIBORG2'}
+2021-04-16 01:42:03,994 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:42:03,994 INFO server.py Разбор сообщения от клиента : {'action': 'message', 'sender': 'KIBORG1', 'to': 'KIBORG2', 'time': 1618526523.718542, 'mess_text': 'VjX2tGX6mYsPmadpjrsGMmI9WiMpCdO7DddRmKPRWuBmy8VWmI4jhyKXx06aD/wfTGD9cyoG8dMwVxmhcyceaBjxfMJfhsLq7URQOXI8E/b7wo0HvJmPXVw7UPmyx/w8bvtp3OyXd27O9W1MIvb9pIlkH/LyHwZZgLFOBSaOWWUs+/os3ZsonhWfs4t9ImRcnrutf61SDuzky9DLRJaoncCFuWAQjS/tvA9UafeeIVO1j02w32Rq/2gZrduNLSb2Wm6aHic9ozQbNL+1smMwRxFWW1xmtuxR7mePbA1yBgBMmRow5lmExcOOFoipGa8CZFoXNRGaVP4zYvqr3oZgaA=='}
+2021-04-16 01:42:03,996 ERROR server_database.py process_message не нашел пользователя "sender" в таблице ChatUsers
+2021-04-16 01:42:03,997 INFO server.py Сообщение от клиента добавлено в очередь
+2021-04-16 01:42:03,997 INFO server.py Отправлено сообщение пользователю KIBORG2 от пользователя KIBORG1.
+2021-04-16 01:42:07,500 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:42:07,500 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618526527.0555131, 'account_name': 'KIBORG1'}
+2021-04-16 01:42:17,010 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:42:17,010 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618526536.8274431, 'account_name': 'KIBORG1'}
+2021-04-16 01:42:27,523 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:42:27,523 INFO server.py Разбор сообщения от клиента : {'action': 'message', 'sender': 'KIBORG2', 'to': 'KIBORG1', 'time': 1618526547.2875333, 'mess_text': 'uE3P4KMNlaon+veH7w2Ltm2Mc2rhWx3qVl5mMQXpfsYdA/dyLVd/Sep1J1U9cxC2bO1fyw/yCSkob5ywZ1sCONqft5nOjrHd3KwbUbNM6PTzBQpZ1LtmWSuWgbPHopBcGcD9D4ENrzNFHvsTZ6rXNqkqeABCCv2taAF/BLBxbwmeCtg5QtTsDNRarmWI7Io5s7RMC7uv/JZ4Bgv49+NejGCWv0X5FkTEpb+sIjQnTgPwzLr6v8DvO7p8hb807onxuJiT08/bkps4JNpLrCcbtK2AsFY9uMZXLEGsRBaou+eVmTdLeY7IiNGSuag9BvKylHvrAOnD4QiofK47hjI6KQ=='}
+2021-04-16 01:42:27,524 ERROR server_database.py process_message не нашел пользователя "sender" в таблице ChatUsers
+2021-04-16 01:42:27,525 INFO server.py Сообщение от клиента добавлено в очередь
+2021-04-16 01:42:27,525 INFO server.py Отправлено сообщение пользователю KIBORG1 от пользователя KIBORG2.
+2021-04-16 01:42:41,539 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:42:41,539 INFO server.py Разбор сообщения от клиента : {'action': 'message', 'sender': 'KIBORG1', 'to': 'KIBORG2', 'time': 1618526561.510187, 'mess_text': 'I60X36eFeyrthW0xp9HXfcARXokPVci8EaQ7bckkQlr2Ac7/EXmQe3/qg/zGPKBcpOyHR63oycSDsKDF4kqkGgeY/6MNnpTL2gs4aJqrkq5iE8h5VNSCCixnREalmrHvuWwmJ0MjPsZadwmT0ge2bvF6cOYdHGWK+eFIbJxk1xASIvy3VNJmIJhqziOLhZezoNg6UuSRfbc99dVUbFCT2fRt9goAKoN8XMiezC8O3eJR6dEyJiIZvB//mmyIfPL7xWoOh7VkJfL66sOHXioD6VS9OD2xVG7Hiw6jm/KuYxl788iqVHjOBe+vbtcoRXDE6reJcYxhxcNE6cRk7fPKjg=='}
+2021-04-16 01:42:41,540 ERROR server_database.py process_message не нашел пользователя "sender" в таблице ChatUsers
+2021-04-16 01:42:41,540 INFO server.py Сообщение от клиента добавлено в очередь
+2021-04-16 01:42:41,540 INFO server.py Отправлено сообщение пользователю KIBORG2 от пользователя KIBORG1.
+2021-04-16 01:42:44,044 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:42:44,044 INFO server.py Разбор сообщения от клиента : {'action': 'message', 'sender': 'KIBORG1', 'to': 'KIBORG2', 'time': 1618526563.663053, 'mess_text': 'VjoC/IfuHCwbOqYSQ2TzZkuJP7pzU1AOW7BJ4X3fffRWcJg+wu4e0oSukCA4zglJV4w72fzDF0XxYI95j9IeOLAy0ByZ1LDkuz/fIeYCMiDkg+jUxLHvTsxNrI6NeVyHpUljDA/MdS+j8kKRg8smHZOuebQppoVHc6vg7Rqc/qyB7/TMaW/P8qbiab3x9SIhwhJJ2ix1p08TL/kxLLGIa5lzXf131muWBGCd3K78bZeM9JrYZ4Xdod93SWYPcpT0BfRXI/JcSbUMNDHzPJXn9CbTonw7cvlZHdIWcMEvVo0bciXImm9w3mXx8KRDoBdInqxxZcDK84EA3cu7DFg6Eg=='}
+2021-04-16 01:42:44,045 ERROR server_database.py process_message не нашел пользователя "sender" в таблице ChatUsers
+2021-04-16 01:42:44,045 INFO server.py Сообщение от клиента добавлено в очередь
+2021-04-16 01:42:44,046 INFO server.py Отправлено сообщение пользователю KIBORG2 от пользователя KIBORG1.
+2021-04-16 01:44:00,123 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:44:00,123 INFO server.py Клиент ('127.0.0.1', 57756) отключился от сервера.
+2021-04-16 01:44:00,129 INFO server.py Клиент ('127.0.0.1', 57757) отключился от сервера.
+2021-04-16 01:44:10,538 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57837)
+2021-04-16 01:44:10,551 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57838)
+2021-04-16 01:44:10,551 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:44:10,551 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526650.5397313, 'user': {'account_name': 'KIBORG2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAolmZ04l2I+SFXabwwohN\n3qR1ICvMKpyOcalqRo0WX/8YHUvwW7fZBEfslHieqlU73SvrD8n+XuYXwlw2YRAZ\n0+zYHsKZyA8bLljpxLpL5ArGy7tz+sKedN41Brb3lpnBGB8wKNUlNAP4K5Pa/d2f\nok8dOXPh79VggcLCRA9mONXfULyEAJSME8do89gfy6pLwVAYtW/LE9HgV+/1YmGl\n4/xznIcFyBPFpj17U8/9bZzagSUdlFF+VqjEmJ9z7wM6lWEOCn5vQ8RXq6wPqL/u\n3Ek9H3qBUqadmeFG8wri/p0Uj9/f8gJY/vXQPlFsc3KLLhm0AljRrCE6NK1gtyn9\nUQIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:44:10,561 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:44:10,562 DEBUG server.py Auth message = {'response': 511, 'bin': 'caa9eacf27de31cd66eac123d01568da0fa1e4eeb7a177cfe431bab81d38f6d3a281828029f2330a01eb2a4310cc1d2d3c851f2e02f063c39cea1ba9b770e0b9'}
+2021-04-16 01:44:11,170 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:44:11,170 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526650.6727912, 'account_name': 'KIBORG2'}
+2021-04-16 01:44:11,180 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526650.5517313, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:44:11,181 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:44:11,182 DEBUG server.py Auth message = {'response': 511, 'bin': '896923804bedd0c076d901ac631e53cbc315cd5e18dfb4c31b7a976ddc9b4474ed7953eccc24bd570f4f0b64bd1e03d681167fff3d1ec6a70b5f6deb5b8310ac'}
+2021-04-16 01:44:11,800 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:44:11,800 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526651.2027352, 'user': 'KIBORG2'}
+2021-04-16 01:44:11,811 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526651.3107364, 'account_name': 'KIBORG1'}
+2021-04-16 01:44:12,313 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:44:12,313 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526651.8363035, 'user': 'KIBORG1'}
+2021-04-16 01:44:18,319 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:44:18,319 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618526657.769872, 'account_name': 'KIBORG1'}
+2021-04-16 01:44:21,823 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:44:21,823 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618526661.0653522, 'account_name': 'KIBORG2'}
+2021-04-16 01:44:27,330 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:44:27,330 INFO server.py Разбор сообщения от клиента : {'action': 'message', 'sender': 'KIBORG1', 'to': 'KIBORG2', 'time': 1618526666.863006, 'mess_text': 'CDLWY8pCnmI7tUcqYm1Jy8S3KgnfX8T9alQMx/6vOACBtdaMQmms+iMKQcmnkb0GplbFP2fBvIOOu/KlpSUtdzfsB8Yxk+Lgp3uOCt3Smy3seO5EhEtlAkk3KN8QNra4V9lggS3YnyRJ5qsU/S4tCdS12DxzynrU48IJkOwWwGw1Ia4kM7JZ8X68wc9sZ5OlqbXZB0UQBvtY96dath1Fs7J18ucq9J15YJywLRu3R2eQACpfmhlBd1gHeu8/y4+o8m5ESUO57iAO8mwG6LbV1QX4WNhepXyWbwFM/gaQqWTCMC6HUnF++qvg86ZyG/3XH3+uUHQncMqjKlt0483WKA=='}
+2021-04-16 01:44:27,331 ERROR server_database.py process_message не нашел пользователя "sender" в таблице ChatUsers
+2021-04-16 01:44:27,331 INFO server.py Сообщение от клиента добавлено в очередь
+2021-04-16 01:44:27,332 INFO server.py Отправлено сообщение пользователю KIBORG2 от пользователя KIBORG1.
+2021-04-16 01:44:38,344 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:44:38,344 INFO server.py Разбор сообщения от клиента : {'action': 'message', 'sender': 'KIBORG2', 'to': 'KIBORG1', 'time': 1618526678.0786524, 'mess_text': 'AYpFExlKIRlJxY6qi+YyhCIUn78HAJA5qpO81TqkXcArOfWnaaTAFkTKLdUGyDjejmM0FWTn1l/RrHWdriqngjD/1SiYJ4hE+BoEROdY953/9w/EEqmTzTOUA516o6WeZMXx7tk7ur8KjkyUQJ8qFxux4Mt92UPQra7/RUnDe3wGKk4LNtY5Y75dn4tFpm7UiQVkP/MJx3vDdGNcMbuG95O05D4AhoeQuAXChgsiBg9sXQ6P1XtzKqPRwKUJWF9Tm3+75/esQrYVx0npOsb6dPJlfaOr4ZiTbOumEf+8kHEQk7E7C405TXFkSzobCzjrcImgdm8Cbr6i0kOjD0EFlA=='}
+2021-04-16 01:44:38,345 ERROR server_database.py process_message не нашел пользователя "sender" в таблице ChatUsers
+2021-04-16 01:44:38,345 INFO server.py Сообщение от клиента добавлено в очередь
+2021-04-16 01:44:38,346 INFO server.py Отправлено сообщение пользователю KIBORG1 от пользователя KIBORG2.
+2021-04-16 01:46:27,984 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:46:27,984 INFO server.py Клиент ('127.0.0.1', 57837) отключился от сервера.
+2021-04-16 01:46:28,003 INFO server.py Клиент ('127.0.0.1', 57838) отключился от сервера.
+2021-04-16 01:46:33,990 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57920)
+2021-04-16 01:46:33,995 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57921)
+2021-04-16 01:46:33,995 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:46:33,996 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526793.9912503, 'user': {'account_name': 'KIBORG2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAolmZ04l2I+SFXabwwohN\n3qR1ICvMKpyOcalqRo0WX/8YHUvwW7fZBEfslHieqlU73SvrD8n+XuYXwlw2YRAZ\n0+zYHsKZyA8bLljpxLpL5ArGy7tz+sKedN41Brb3lpnBGB8wKNUlNAP4K5Pa/d2f\nok8dOXPh79VggcLCRA9mONXfULyEAJSME8do89gfy6pLwVAYtW/LE9HgV+/1YmGl\n4/xznIcFyBPFpj17U8/9bZzagSUdlFF+VqjEmJ9z7wM6lWEOCn5vQ8RXq6wPqL/u\n3Ek9H3qBUqadmeFG8wri/p0Uj9/f8gJY/vXQPlFsc3KLLhm0AljRrCE6NK1gtyn9\nUQIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:46:34,006 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:46:34,007 DEBUG server.py Auth message = {'response': 511, 'bin': '7dc5523526e43971a9fe7b9f06c416469a5084d48a572e1b8f2601f9d39f1d697dd320c343f87f91e230c79a4f36eb80c40adff4f7ba3874dee4f0c28866eeee'}
+2021-04-16 01:46:34,587 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:46:34,587 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526794.1302505, 'account_name': 'KIBORG2'}
+2021-04-16 01:46:34,596 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526793.9962504, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:46:34,598 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:46:34,599 DEBUG server.py Auth message = {'response': 511, 'bin': '0c61270f3f408bc0ff6969a293f64ff1185584ca7789d977770409bc58bb5b959238ee47db123a99c55f6f791e8e5bf93a78e2300ad399e91859e5ed8319de90'}
+2021-04-16 01:46:35,175 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:46:35,175 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526794.616522, 'user': 'KIBORG2'}
+2021-04-16 01:46:35,186 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526794.7065203, 'account_name': 'KIBORG1'}
+2021-04-16 01:46:35,686 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:46:35,686 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526795.2088115, 'user': 'KIBORG1'}
+2021-04-16 01:46:38,690 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:46:38,690 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618526798.3149905, 'account_name': 'KIBORG2'}
+2021-04-16 01:46:41,194 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:46:41,194 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618526800.737045, 'account_name': 'KIBORG1'}
+2021-04-16 01:46:51,706 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:46:51,706 INFO server.py Разбор сообщения от клиента : {'action': 'message', 'sender': 'KIBORG2', 'to': 'KIBORG1', 'time': 1618526811.2699862, 'mess_text': 'rW9R7634jYNNT92XgcBFaK61MLcDINk1gB3DP85241LKSbk4hBzSoO1pxLXGMiRPKsfEK/WB8zUPZ/47WZI3NBvUIQXxGl7hCzoF/9E4hJKM2W7Oq8lwwuOD9rQD+IllPGZFoLxCU5+uSE777VCNtEVpR04WR/ovrz1ur+v1BQfySrN05kcTBdA49x3dwSkxgZc2Sf56UCgl03Bwo0ELuMGlnD9YlRcxcQDMoRabq+Io614EaFNk/tYDC6ovDQfMVOw60GHh+hvm+aThdTx1KATOJZap1cWiUxDhFDjlu0IwO46pEfHZGkw7PGfXa55TsJUIK9C87QYbom89IKqwdg=='}
+2021-04-16 01:46:51,707 ERROR server_database.py process_message не нашел пользователя "sender" в таблице ChatUsers
+2021-04-16 01:46:51,708 INFO server.py Сообщение от клиента добавлено в очередь
+2021-04-16 01:46:51,708 INFO server.py Отправлено сообщение пользователю KIBORG1 от пользователя KIBORG2.
+2021-04-16 01:46:53,208 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:46:53,208 INFO server.py Клиент ('127.0.0.1', 57920) отключился от сервера.
+2021-04-16 01:47:21,740 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:47:21,740 INFO server.py Клиент ('127.0.0.1', 57921) отключился от сервера.
+2021-04-16 01:47:25,829 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57950)
+2021-04-16 01:47:25,830 INFO server.py Установлено соединение с ПК ('127.0.0.1', 57951)
+2021-04-16 01:47:25,830 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:47:25,830 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526845.8302765, 'user': {'account_name': 'KIBORG2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAolmZ04l2I+SFXabwwohN\n3qR1ICvMKpyOcalqRo0WX/8YHUvwW7fZBEfslHieqlU73SvrD8n+XuYXwlw2YRAZ\n0+zYHsKZyA8bLljpxLpL5ArGy7tz+sKedN41Brb3lpnBGB8wKNUlNAP4K5Pa/d2f\nok8dOXPh79VggcLCRA9mONXfULyEAJSME8do89gfy6pLwVAYtW/LE9HgV+/1YmGl\n4/xznIcFyBPFpj17U8/9bZzagSUdlFF+VqjEmJ9z7wM6lWEOCn5vQ8RXq6wPqL/u\n3Ek9H3qBUqadmeFG8wri/p0Uj9/f8gJY/vXQPlFsc3KLLhm0AljRrCE6NK1gtyn9\nUQIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:47:25,841 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:47:25,842 DEBUG server.py Auth message = {'response': 511, 'bin': '701aaf9199a3fb010b06c803322a8e5e283dd56b4ef4636d02437693308e958949041539b7f6b103e0a96ece98132dbdc9f34d3136644a78cb50a7d7cdbf3fc4'}
+2021-04-16 01:47:26,452 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:47:26,452 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526845.9542763, 'account_name': 'KIBORG2'}
+2021-04-16 01:47:26,462 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1618526845.831274, 'user': {'account_name': 'KIBORG1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPV5+fOTLIU3GlXc5OEj\nXsSr0CtLwAdyDwmfnJAw2tX+cx6qj+ZaMo6oE7niEoQJoI3cfjPWnRug6vqu5DLa\nr71ycznFFi35O2W67t0LG66oLJVI6gyjAjN2eM7mgXglmz3qtOUE6jKIBPLGlVzD\nwkZ1VMrEa/LDsvdg3wJhBHoIWVAYs9upRJbSaNLpVFKguLOAWk46un0Aw9aJXHfo\nJKp/6+067N0/gCeJ9SkNsTxxHPTOEQlPBmTXy1u4gnNdgnlBHx4ELw7+lnpkjP8u\nVkH/Ll7SASfrfupwMycRWAtQDqMt1lmfL84zcdJG8P5dz5nGv7J72hW6Co5HeJSu\nTwIDAQAB\n-----END PUBLIC KEY-----'}}
+2021-04-16 01:47:26,463 DEBUG server.py Correct username, starting passwd check.
+2021-04-16 01:47:26,464 DEBUG server.py Auth message = {'response': 511, 'bin': '50eba3e7704fc84841bf52401103756b717c9f000505252528c15dca6e8fdaa775ece0922e7572abe867e16e11fe5423a6de00feb7c086a8250be83ca22844f4'}
+2021-04-16 01:47:27,088 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:47:27,088 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526846.4915905, 'user': 'KIBORG2'}
+2021-04-16 01:47:27,099 INFO server.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1618526846.5915906, 'account_name': 'KIBORG1'}
+2021-04-16 01:47:27,601 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:47:27,601 INFO server.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1618526847.1257398, 'user': 'KIBORG1'}
+2021-04-16 01:47:30,606 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:47:30,606 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618526850.1544719, 'account_name': 'KIBORG2'}
+2021-04-16 01:47:32,610 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:47:32,610 INFO server.py Разбор сообщения от клиента : {'action': 'pubkey_need', 'time': 1618526852.254655, 'account_name': 'KIBORG1'}
+2021-04-16 01:47:42,621 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:47:42,621 INFO server.py Разбор сообщения от клиента : {'action': 'message', 'sender': 'KIBORG2', 'to': 'KIBORG1', 'time': 1618526862.4705834, 'mess_text': 'qm4Kwi7oYGUlyANvdROfOBm7c+3xbQmkOd7HR2YH+dqwRCwzdEz/4uAQBRJXpn/3V9y0frx0Rqh/cR3cAK7Jo7K6bOXfCqPOHwJE7lhl8gAlZ4Zgx8NW631r5FxJMRCl3yU/6uoKTO/hVjAgAPVwra+4iTgwVkBbgeEb3WTZkJHHiqoQkIudCSuL+0WArUyLuqMlnP4jIOTRf9WM4MZhTwPXC6bAnwmlaHBKreoWZNq7gLCr8T75Xlcf51Mg0wWNUIZOApnmdLXycjCoa+20qhUAPkrE6AMFgZ12Bdx3C2XpX3rbHyo+9AQkcituvhuA1XsgsbJTDjlzVCBy1XvYbg=='}
+2021-04-16 01:47:42,622 ERROR server_database.py process_message не нашел пользователя "sender" в таблице ChatUsers
+2021-04-16 01:47:42,623 INFO server.py Сообщение от клиента добавлено в очередь
+2021-04-16 01:47:42,623 INFO server.py Отправлено сообщение пользователю KIBORG1 от пользователя KIBORG2.
+2021-04-16 01:48:01,642 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:48:01,642 INFO server.py Разбор сообщения от клиента : {'action': 'message', 'sender': 'KIBORG1', 'to': 'KIBORG2', 'time': 1618526881.302407, 'mess_text': 'X3QQhJKEZ0QTeOirqBJ2BXlA+2RW9Mp3cRySuQwInL3H/cMKTHCpr0lUWPMOEcmW9ssl63Z7E2pxLixfqk2hU4RiZOMvV2NnimkEZB/R9f2UJexE4JCXc4so5DLCjV5as2OWgrcCbtc5waalSM0YFYTSeX1BTusCKU/OI/metmBnBLzfaG8tNM5zhjBFk8EGOn6WtiZDQXjwmv6QUC+DGPPw85UDOHdP4wcAlNXnMICkOhclis3zPOlouzGRXFtVvV14V1revZIuLgNpH3WXvqZqTWQpAmxktLt3uZQJyNLeeoMp6ti/0rh7h+PTEzr45ruh+YACo7EeoBU9u1V9Lg=='}
+2021-04-16 01:48:01,643 ERROR server_database.py process_message не нашел пользователя "sender" в таблице ChatUsers
+2021-04-16 01:48:01,643 INFO server.py Сообщение от клиента добавлено в очередь
+2021-04-16 01:48:01,644 INFO server.py Отправлено сообщение пользователю KIBORG2 от пользователя KIBORG1.
+2021-04-16 01:50:40,299 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:50:40,299 INFO server.py Клиент ('127.0.0.1', 57950) отключился от сервера.
+2021-04-16 01:50:41,809 INFO server.py Есть сообщения от клиентов
+2021-04-16 01:50:41,809 INFO server.py Клиент ('127.0.0.1', 57951) отключился от сервера.
